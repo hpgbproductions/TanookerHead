@@ -2,7 +2,7 @@
 
 Test p5.js project. It's a small tanuki-shaped spring-damper system that sways around depending on the location of your mouse. Maybe in the future, it will move depending on how you drive a train.
 
-The original tanuki template was made by [Haruyuki Tanukiji](https://x.com/haruyukitanuki) and can be found [here](https://x.com/haruyukitanuki/status/2066058644123521194).
+The original tanuki template was made by [Haruyuki Tanukiji](https://x.com/haruyukitanuki) and can be found [here](https://x.com/haruyukitanuki/status/2066058644123521194). The tanuki assets are available under the CC BY-NC-SA 4.0 license.
 
 ## Controls
 
